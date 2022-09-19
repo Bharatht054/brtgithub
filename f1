@@ -1,1 +1,2 @@
-
+cherry base : it will pick any specified commit from other branch to 
+whereever it required along a new commit ID. Also we can update a new commit messsage
